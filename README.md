@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Melty6154
-- 👀 I’m interested in Knowing the meaning of life
-- 🌱 I’m currently learning PHP
+Hi I'm Melty
 
 <!---
 Melty6154/Melty6154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
